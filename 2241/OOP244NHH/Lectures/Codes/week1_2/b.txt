@@ -1,0 +1,3 @@
+	cout << "xrazy main" << endl;
+	return 0;
+}
